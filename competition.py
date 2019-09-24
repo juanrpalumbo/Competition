@@ -1,0 +1,3 @@
+vowels="aeiou"
+alphabet=" abcdefghijklmnopqrstuvwxyz"
+
